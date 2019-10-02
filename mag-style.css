@@ -44,6 +44,13 @@ body {
   border: solid 1px white;
 }
 
+nav div {
+  width: 15%;
+  margin: auto;
+  align-self: center;
+  display: block;
+}
+
 .sm-height {
   height: 240px;
 }
@@ -132,13 +139,6 @@ nav {
   justify-content: space-between;
   font-size: 60px;
   text-align: center;
-}
-
-nav div {
-  width: 15%;
-  margin: auto;
-  align-self: center;
-  display: block;
 }
 
 nav p {
